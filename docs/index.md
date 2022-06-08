@@ -1,8 +1,8 @@
-# Prime Video - Requisitos de Software
+# Início
 
 <center>
 
-![](docs/assets/img/logo-prime-video.png)
+![](assets/img/logo-prime-video.png)
 
 </center>
 
@@ -27,3 +27,12 @@
 | <img src="https://github.com/Ericklevy.png" style="width: 80px; border-radius: 40px"> | Erick Levy |[Ericklevy](https://github.com/Ericklevy) | erickfga23@gmail.com | 
 | <img src="https://github.com/LamequeFernandes.png" style="width: 80px; border-radius: 40px"> | Lameque Fernandes | [LamequeFernandes](https://github.com/LamequeFernandes) |lamequesao@gmail.com | 
 | <img src="https://github.com/savioc2.png" style="width: 80px; border-radius: 40px"> | Sávio Cunha |  [savioc2](https://github.com/savioc2) |saviocunha61@gmail.com | 
+
+## 4. Histórico de versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor|
+|-|-|-|-|
+|1.0|03/02/2022|Criação da descrição sobre o projeto e sobre o aplicativo escolhido.|[DouglasMonteles](https://github.com/DouglasMonteles)|
+|1.1|05/02/2022|Corrigindo os estilos da página.|[DouglasMonteles](https://github.com/DouglasMonteles)|
+|1.2|05/02/2022|Adição da equipe, padronização dos tamanhos de título e alteração da imagem.|[DouglasMonteles](https://github.com/DouglasMonteles)|
+

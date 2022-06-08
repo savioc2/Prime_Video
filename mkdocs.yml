@@ -1,0 +1,65 @@
+site_name: Prime Video
+
+repo_name: '2021.2-Prime-video'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Prime-video'
+
+theme:
+  name: material
+  language: 'pt'
+
+nav: 
+  - Início: index.md
+  - Planejamento:
+    - Metodologias: planejamento/metodologias.md 
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Aplicativos analisados: planejamento/apps-analisados.md
+    - Padrões: 
+      - Políticas de Branch: padroes/branches.md
+      - Políticas de commit: padroes/commits.md
+      - Template para Documentação: padroes/template.md
+  - Pré-rastreabilidade:
+    - Rich Picture: pre_rastreabilidade/rich_picture.md
+  - Elicitação:
+    - Personas: elicitacao/personas.md
+    - Técnicas:
+      - Brainstorm: elicitacao/tecnicas/brainstorming.md
+      - Introspecção: elicitacao/tecnicas/instrospeccao.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: elicitacao/tecnicas/questionario.md
+    - Priorização: 
+      - MoSCoW: elicitacao/priorizacao/moscow.md
+    - Resultados: elicitacao/resultados.md
+  - Modelagem:
+    - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+    - Lexico: modelagem/lexico.md
+    - Cenarios: modelagem/cenarios.md
+    - NFR Framework: modelagem/nfr_framework.md
+    - Ágil:
+      - Backlog do Produto: modelagem/agil/backlog.md
+      - Histórias de usuário: modelagem/agil/user_story.md
+  - Análise:
+    - Verificação:
+      - Introdução: analise/verificacao/verificacao.md
+      - Backlog: analise/verificacao/backlog.md
+      - Casos de Uso: analise/verificacao/casos_de_uso.md
+      - Cenários: analise/verificacao/cenarios.md
+      - Léxicos: analise/verificacao/lexicos.md
+      - NFR Framework: analise/verificacao/nfr_framework.md
+      - Rich Picture: analise/verificacao/rich_picture.md
+    - Validação:
+      - Prototipação: analise/validacao/prototipo.md
+  - Pós-rastreabilidade:
+    - Backward-from: pos-rastreabilidade/backward_from.md
+    - Forward-from: pos-rastreabilidade/forward_from.md
+  - Apresentações:
+    - Apresentação 1: apresentacoes/apresentacao1.md
+    - Apresentação 2: apresentacoes/apresentacao2.md
+    - Apresentação 3: apresentacoes/apresentacao3.md
+    - Apresentação 4: apresentacoes/apresentacao4.md
+    - Apresentação 5: apresentacoes/apresentacao5.md
+    - Apresentação 6: apresentacoes/apresentacao6.md
+    - Apresentação Final: apresentacoes/apresentacaoFinal.md
+extra_css:
+  - stylesheets/styles.css
